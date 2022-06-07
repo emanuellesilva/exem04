@@ -1,0 +1,25 @@
+div{
+    background-color: hsl(0, 0%, 26%);
+    color: #fdf5f5;
+    display: block;
+    width: 200px;
+    height: 120px;
+    overflow: auto;
+    padding: 10px;
+    border: solid  2px black;
+    margin: 15px;
+    box-sizing: border-box;
+    }
+
+    #a{
+        background-color: rgb(230, 31, 180);
+    }
+     
+    #b{
+        background-color: rgb(85, 206, 206);
+        padding: 20px;
+    }
+
+    #c{
+        background-color: rgb(86, 106, 221);
+    }
